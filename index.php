@@ -8,5 +8,9 @@
 <body>
     <h1>Hello World!</h1>
     <p>lorem ipsssuumm</p>
+    <ul>
+        <li> panduw</li>
+        <li> vasto</li>
+    </ul>
 </body>
 </html>
