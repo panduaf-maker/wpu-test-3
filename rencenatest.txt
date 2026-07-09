@@ -4,8 +4,10 @@ rencana
 -devops
 -php framework
 -adobe photoshop
--premiere pro
+*coloring
 -adobe ilustrator
 *belajar coloring
 -adobe after effect
+
 *typo graphy
+
