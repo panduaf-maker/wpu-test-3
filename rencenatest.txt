@@ -2,3 +2,8 @@ rencana
 -javascript
 -css
 -devops
+-php framework
+-adobe photoshop
+-premiere pro
+-adobe ilustrator
+-adobe after effect
