@@ -7,3 +7,4 @@ rencana
 -premiere pro
 -adobe ilustrator
 -adobe after effect
+*typo graphy
