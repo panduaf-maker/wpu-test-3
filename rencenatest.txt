@@ -4,6 +4,9 @@ rencana
 -devops
 -php framework
 -adobe photoshop
--premiere pro
+*coloring
 -adobe ilustrator
 -adobe after effect
+*typo graphy 
+*trackking
+
